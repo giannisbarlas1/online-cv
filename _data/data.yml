@@ -44,11 +44,9 @@ career-profile:
          Candidate for Bsc in the field of IT at ionio University.1 year of
           studying React.js for front-end Development and 6 months of studying database managment.
 
-
-education:
-    -  degree:Bsc Degree in the field of Informatics
-       university: Ionian University
-       time:2019-not yet
+- degree: MSc in Computer Science
+      university: University of London
+      time: 2011 - 2012
 projects:
     title: Projects
     intro: >
