@@ -8,31 +8,29 @@ sidebar:
 
     # Profile information
     name: Giannis Barlas
-    tagline: junior DBA
+    tagline: Junior DBA
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: giannis@gmail.com
-    phone: 6979797979
-    linkedin: giannis barlas
+    email: hello@webjeda.com
+    phone: 012 345 6789
+    citizenship:
+    linkedin: giannisbarlas1
     github: giannisbarlas1
     pdf: http://www.africau.edu/images/default/sample.pdf
-
-
-
 
     languages:
       - idiom: English
         level: Lower
 
-      - idiom: Greek
+      - idiom: Grekk
         level: Native
 
     interests:
-      - item: Coding
+      - item: Climbing
         link:
 
-      - item: Making Beats
+      - item: Snowboarding
         link:
 
       - item: Cooking
@@ -41,12 +39,33 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-         Candidate for Bsc in the field of IT at ionio University.1 year of
-          studying React.js for front-end Development and 6 months of studying database managment.
-
-- degree: MSc in Computer Science
-      university: University of London
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
+      Second paragraph if required.
+education:
+    - degree: Bsc in Computer Science
+      university: University of Ionio
       time: 2011 - 2012
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - degree: BSc in IT
+      university: Ionian University
+      time: 2019 - 2023
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
 projects:
     title: Projects
     intro: >
@@ -54,32 +73,35 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: To-Do List App
+      - title: To-Do App
+        link: "#hook"
+        tagline: "An app designed to help day routine."
 
-      - title: Python Auto login for Facebook
+      - title: Python auto login for Facebook
+        link: ""
+
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
       - name: Python & Django
-        level: 26%
+        level: 18%
 
       - name: Javascript & jQuery
-        level: 38%
-
-      - name: React
         level: 48%
 
+      - name: Angular
+        level: 38%
+
       - name: HTML5 & CSS
-        level: 78%
+        level: 75%
 
       - name: Ruby on Rails
-        level: 25%
+        level: 35%
 
       - name: Sketch & Photoshop
         level: 40%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
-
