@@ -8,12 +8,12 @@ sidebar:
 
     # Profile information
     name: Giannis Barlas
-    tagline:  Junior DBA
+    tagline: Junior Machine Learning Engineer
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: giannis@gmail.com
-    phone: 012 345 6789
+    email: barlitojohn@gmail.com
+    phone: (+30) 6987399559  
     citizenship:
     linkedin: giannisbarlas1
     github: giannisbarlas1
@@ -23,27 +23,17 @@ sidebar:
       - idiom: English
         level: Lower
 
-      - idiom: Grekk
+      - idiom: Greek
         level: Native
-
-    interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Bsc in the field of IT at Ionian University
+     Expected graduate at Ionian University
 education:
-    - degree: Bsc in Computer Science
+    - degree: Expected graduate in informatics field
       university: University of Ionio
-      time: 2011 - 2012
+      time: 2019 - 2014
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
